@@ -233,7 +233,7 @@ span#articleTag {
 
 #articleHead {
 	font-family: 'Vesper Libre', serif;
-	color: #FFF;
+	color: #000;
 	font-size: 3rem;
 	font-weight: 900;
 	line-height: 1;
@@ -257,7 +257,7 @@ div.searchResults {
 }
 
 div.col.s7.articleInfo {
-	margin-top: -32%;
+	margin-top: 2%;
 	padding: 30px;
 }
 

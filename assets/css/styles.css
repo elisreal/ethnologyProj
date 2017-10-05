@@ -91,6 +91,10 @@ nav ul a:hover {
 	text-align: left;
 }
 
+#articlesContainer {
+	padding: 40px;
+}
+
 #bgImg1 {
 	background: linear-gradient(360deg, rgba(144, 19, 254, 0.63), rgba(2, 2, 2, 0)), url("../images/maxresdefault.jpg");
 	background: -webkit-linear-gradient(360deg, rgba(144, 19, 254, 0.63), rgba(2, 2, 2, 0)), url("../images/maxresdefault.jpg");

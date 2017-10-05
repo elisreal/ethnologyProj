@@ -229,9 +229,11 @@ span#articleTag {
 	margin-top: 10%;
 }
 
+
+
 #articleHead {
 	font-family: 'Vesper Libre', serif;
-	color: #000;
+	color: #FFF;
 	font-size: 3rem;
 	font-weight: 900;
 	line-height: 1;
@@ -255,7 +257,8 @@ div.searchResults {
 }
 
 div.col.s7.articleInfo {
-	margin-top: 2%;
+	margin-top: -32%;
+	padding: 30px;
 }
 
 button.waves-effect.waves-light.btn-large {

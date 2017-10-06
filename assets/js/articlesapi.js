@@ -228,13 +228,13 @@ function runQuery(numArticles, queryURL) {
 
       //SEARCH RESULT IMAGE
 
-      var img = new Image ();
-      img.src = "https://nytimes.com/" + NYTData.response.docs[i].multimedia[0].url;
+  //    var img = new Image ();
+    //  img.src = "https://nytimes.com/" + NYTData.response.docs[i].multimedia[0].url;
 
-      $("#articleImg")
-        .append(img);
+      //$("#articleImg")
+        //.append(img);
 
-      console.log("https://nytimes.com/" + NYTData.response.docs[i].multimedia[0].url);
+     // console.log("https://nytimes.com/" + NYTData.response.docs[i].multimedia[0].url);
 
 
       //url in case needed but atm is redundant bc headline is linked
